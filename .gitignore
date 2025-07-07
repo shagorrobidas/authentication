@@ -1,4 +1,0 @@
-echo "*.pyc" >> .gitignore
-echo "__pycache__/" >> .gitignore
-echo "*.env" >> .gitignore
-echo "joinventureai/joinventureai/settings.py" >> .gitignore
