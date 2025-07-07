@@ -1,3 +1,4 @@
-joinventureai/joinventureai/settings.py
-joinventureai/joinventureai/settings.py
-joinventureai/joinventureai/settings.py
+echo "*.pyc" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.env" >> .gitignore
+echo "joinventureai/joinventureai/settings.py" >> .gitignore
